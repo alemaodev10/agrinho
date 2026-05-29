@@ -2,6 +2,8 @@
 jogo agrinho tema sobre o agro do brasil 
 
 
+FEITO POR ANDRE DE FRANCA ROBERTO 1D CIDADE GAUCHA PR 
+
 Tecnologias Principais
 HTML5: Cria a estrutura da tela e os textos da interface (HUD).
 
